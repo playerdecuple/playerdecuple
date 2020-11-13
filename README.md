@@ -16,18 +16,17 @@ __🌱는 초보자라는 뜻이에요.__
 * Visual Basic(6.0 & .NET, 다 까먹음)
 
 ## 👍 지금까지 만든 것들
-* Quintuple (Java 기반)
-* **QuintupleV2** (Java 기반)
-* **Custom MusicBot Maker** (Java 기반)
-* Orrn Bot (Python 기반)
-* ~AutoMentionBot~ (Java 기반)
+![QuintupleV2](https://github-readme-stats.vercel.app/api/pin?username=playerdecuple&repo=QuintupleV2&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![CustomMusicBotMaker](https://github-readme-stats.vercel.app/api/pin?username=playerdecuple&repo=Custom-MusicBot-Maker&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)  
+![OrrnBot](https://github-readme-stats.vercel.app/api/pin?username=playerdecuple&repo=OrrnBotPython&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![AutoMentionBot](https://github-readme-stats.vercel.app/api/pin?username=playerdecuple&repo=AutoMentionBot&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 ## 💬 블로그
 [개인 블로그로 이동하는 링크](https://playerdecuple.github.io/)
   
   
 ## 그 이외
-제가 개발을 오래 한 것이 아니라서, 만년 초보 개발자인 겁니다. 사실 Java 잡은지 10개월밖에 안 됐어요.
+저는 개발을 오래 한 사람이 아닙니다. 사실 Java 잡은지 10개월밖에 안 됐어요. 코드 수준이 딱 그래 보일 거에요.
 
 <!--
 **playerdecuple/playerdecuple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
