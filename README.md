@@ -1,6 +1,6 @@
 ### 게이머이면서 만년 초보 개발자인 데큐플입니다. 안녕하세요! 👋
 
-![Developer Decuple's Github Stats](https://github-readme-stats.vercel.app/api?username=playerdecuple&show_icons=true)
+![Developer Decuple's Github Stats](https://github-readme-stats.vercel.app/api?username=playerdecuple&show_icons=true&theme=radical)
 
 ## 💻 주로 사용하는 언어
 * Java 
