@@ -20,8 +20,8 @@
 * Visual Basic(6.0 & .NET, 다 까먹음)
 
 ## 👍 지금까지 만든 것들
-![QuintupleV2](https://github-readme-stats.vercel.app/api/pin?username=playerdecuple&repo=QuintupleV2&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-![CustomMusicBotMaker](https://github-readme-stats.vercel.app/api/pin?username=playerdecuple&repo=Custom-MusicBot-Maker&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)  
+[![QuintupleV2](https://github-readme-stats.vercel.app/api/pin?username=playerdecuple&repo=QuintupleV2&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/playerdecuple/QuintupleV2)
+[![CustomMusicBotMaker](https://github-readme-stats.vercel.app/api/pin?username=playerdecuple&repo=Custom-MusicBot-Maker&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)  ](https://github.com/playerdecuple/Custom-MusicBot-Maker)
 ![OrrnBot](https://github-readme-stats.vercel.app/api/pin?username=playerdecuple&repo=OrrnBotPython&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 ![AutoMentionBot](https://github-readme-stats.vercel.app/api/pin?username=playerdecuple&repo=AutoMentionBot&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
