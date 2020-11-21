@@ -13,7 +13,7 @@
 여기 있는 목록들 다 잘 못합니다.
 
 ### 제 깃허브 레포지토리 내에서 사용한 언어
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=playerdecuple&layout=compact)](https://github.com/playerdecuple/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=playerdecuple&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 
 ## 📜 예전에 썼던 언어
