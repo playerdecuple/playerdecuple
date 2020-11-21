@@ -6,7 +6,7 @@
 * Java 
 * Kotlin🌱
 * Python🌱  
-__🌱는 초보자라는 뜻이에요.__
+__🌱는 완전 초보자라는 뜻이에요.__
 
 ### 제 깃허브 레포지토리 내에서 사용한 언어
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=playerdecuple&layout=compact)](https://github.com/playerdecuple/github-readme-stats)
