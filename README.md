@@ -2,11 +2,15 @@
 
 ![Developer Decuple's Github Stats](https://github-readme-stats.vercel.app/api?username=playerdecuple&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-## 💻 주로 사용하는 언어
-* Java 
-* Kotlin🌱
-* Python🌱  
-__🌱는 완전 초보자라는 뜻이에요.__
+## 💻 사용해본 언어(자주 사용할 수록 앞)
+![JavaImage](https://icon-icons.com/icons2/2415/PNG/32/java_original_wordmark_logo_icon_146459.png)
+![KotlinImage](https://icon-icons.com/icons2/2107/PNG/32/file_type_kotlin_icon_130487.png)
+![PythonImage](https://icon-icons.com/icons2/112/PNG/32/python_18894.png)
+![JSImage](https://icon-icons.com/icons2/2108/PNG/32/javascript_icon_130900.png)
+![CSharpImage](https://icon-icons.com/icons2/2415/PNG/32/csharp_original_logo_icon_146578.png)
+![HtmlImage](https://icon-icons.com/icons2/2107/PNG/32/file_type_html_icon_130541.png)
+
+여기 있는 목록들 다 잘 못합니다.
 
 ### 제 깃허브 레포지토리 내에서 사용한 언어
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=playerdecuple&layout=compact)](https://github.com/playerdecuple/github-readme-stats)
