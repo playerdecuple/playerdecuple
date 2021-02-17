@@ -8,7 +8,7 @@
 ![PythonImage](https://icon-icons.com/icons2/112/PNG/32/python_18894.png)
 ![JSImage](https://icon-icons.com/icons2/2108/PNG/32/javascript_icon_130900.png)
 ![CSharpImage](https://icon-icons.com/icons2/2415/PNG/32/csharp_original_logo_icon_146578.png)
-![HtmlImage](https://icon-icons.com/icons2/2107/PNG/32/file_type_html_icon_130541.png)
+![HtmlImage](https://icon-icons.com/icons2/2107/PNG/32/file_type_html_icon_130541.png) (마크업이지만 어쨋든 언어니까요)
 
 여기 있는 목록들 다 잘 못합니다.
 
