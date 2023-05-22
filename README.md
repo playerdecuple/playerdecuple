@@ -1,8 +1,6 @@
 
 
 <div align="center">
-
-**안녕하세요, 데큐플(_김대중_)이에요 👋**
  
   
 ![Developer Decuple's Github Stats](https://github-readme-stats.vercel.app/api?username=playerdecuple&show_icons=true&title_color=f44&icon_color=f44)
@@ -10,6 +8,16 @@
   <br>
   
 </div>
+
+
+## I am..
+ * Web Developer (Full-stack)
+ * Game Developer
+ * Bot(using API of other platforms) Developer
+ * **I studing..**
+  - Machine Learning
+ * Student of ASTH (Ansan Technical Highscool)
+ * Skills competitor (Web Technologies, in Republic of Korea)
 
 
 ## 💻 Languages
