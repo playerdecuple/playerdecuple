@@ -14,10 +14,11 @@
  * Web Developer (Full-stack)
  * Game Developer
  * Bot(using API of other platforms) Developer
- * **I studing..**
-  - Machine Learning
  * Student of ASTH (Ansan Technical Highscool)
  * Skills competitor (Web Technologies, in Republic of Korea)
+
+## I studying..
+ * Machine Learning (AI)
 
 
 ## 💻 Languages
