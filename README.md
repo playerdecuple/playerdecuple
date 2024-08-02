@@ -13,8 +13,7 @@
 ## I am..
  * Web Developer (Full-stack)
  * Game Developer
- * Bot(using API of other platforms) Developer
- * Student of ASTH (Ansan Technical Highscool)
+ * Discord Bot Developer
  * Skills competitor (Web Technologies, in Republic of Korea)
 
 ## I studying..
@@ -24,12 +23,12 @@
 ## 💻 Languages
 
 * JavaScript
-* TypeScript 🌱
+* TypeScript
 * Kotlin
 * Java
 * Dart
 * PHP
-* Python 🌱
+* Python
 * C# 🌱
 
 
@@ -41,8 +40,7 @@
 
 
 ## 👯 Teams
-* **Team Decuple** : Leader & Head Dev.
-* **Team Aesir** : Leader & Head Dev.
+* **Overriders**: Leader
 
 
 
